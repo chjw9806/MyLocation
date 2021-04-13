@@ -1,0 +1,5 @@
+com/example/mylocation/BuildConfig.java
+ com.example.mylocation.BuildConfig
+com/example/mylocation/MyLocationActivity.java
+ com.example.mylocation.MyLocationActivity
+ com.example.mylocation.MyLocationActivity$1
